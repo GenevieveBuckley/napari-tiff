@@ -41,6 +41,7 @@ testing = [
 dev = [
    'tox',
    'build',
+   'pre-commit',
 ]
 
 [tools.setuptools]
